@@ -1,5 +1,5 @@
 
-# LLM Quiz Proctor
+# LLM Test Proctor
 
 ## Overview
 This is very simple self-study or educational tool which proctors multiple choice tests from the command line. 
