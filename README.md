@@ -42,7 +42,7 @@ Given the following example of JSON,
     ]
 }
 
-generate 20 multiple choice questions using this JSON format on only topic of <your_topic_here>. 
+generate 20 multiple choice questions using this JSON format on only the topic of <your_topic_here>. 
 ```
 
 ## License
