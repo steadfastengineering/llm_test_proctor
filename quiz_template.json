@@ -1,0 +1,24 @@
+{
+    "questions":[
+        {
+            "id": 1,
+            "category": "Geography",
+            "question": "What is the capital of France?",
+            "a": "Berlin", 
+            "b": "Madrid",
+            "c": "Paris",
+            "d": "Rome",
+            "answer": "c"
+        },
+        {
+            "id": 2,
+            "category": "Science",
+            "question": "What is the chemical symbol for water?",
+            "a": "CH4", 
+            "b": "H2O",
+            "c": "NaCL",
+            "d": "O2",
+            "answer": "b"
+        }
+    ]
+}
