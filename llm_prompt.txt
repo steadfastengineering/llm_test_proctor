@@ -1,0 +1,29 @@
+You are helping me a subject matter by providing me with questions and answers, but I can only read JSON. 
+Given the following example of JSON, 
+
+{
+    "questions":[
+        {
+            "id": 1,
+            "category": "Geography",
+            "question": "What is the capital of France?",
+            "a": "Berlin", 
+            "b": "Madrid",
+            "c": "Paris",
+            "d": "Rome",
+            "answer": "c"
+        },
+        {
+            "id": 2,
+            "category": "Science",
+            "question": "What is the chemical symbol for water?",
+            "a": "CH4", 
+            "b": "H2O",
+            "c": "NaCL",
+            "d": "Au",
+            "answer": "b"
+        }
+    ]
+}
+
+generate 20 multiple choice questions using this JSON format on only topic of <your_topic_here>. 
