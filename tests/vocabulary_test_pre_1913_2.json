@@ -1,0 +1,204 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "category": "Vocabulary",
+            "question": "What does 'ameliorate' mean?",
+            "a": "To worsen or degrade",
+            "b": "To improve or enhance",
+            "c": "To confuse or obscure",
+            "d": "To shrink or reduce",
+            "answer": "b"
+        },
+        {
+            "id": 2,
+            "category": "Vocabulary",
+            "question": "What does 'belligerent' mean?",
+            "a": "Peaceful and calm",
+            "b": "Hostile and aggressive",
+            "c": "Shy and timid",
+            "d": "Bright and cheerful",
+            "answer": "b"
+        },
+        {
+            "id": 3,
+            "category": "Vocabulary",
+            "question": "What does 'cogitate' mean?",
+            "a": "To act impulsively",
+            "b": "To think deeply",
+            "c": "To move quickly",
+            "d": "To speak loudly",
+            "answer": "b"
+        },
+        {
+            "id": 4,
+            "category": "Vocabulary",
+            "question": "What does 'dilatory' mean?",
+            "a": "Prompt and timely",
+            "b": "Slow or delaying",
+            "c": "Clear and concise",
+            "d": "Strong and firm",
+            "answer": "b"
+        },
+        {
+            "id": 5,
+            "category": "Vocabulary",
+            "question": "What does 'ephemeral' mean?",
+            "a": "Lasting a short time",
+            "b": "Permanent and enduring",
+            "c": "Loud and harsh",
+            "d": "Soft and gentle",
+            "answer": "a"
+        },
+        {
+            "id": 6,
+            "category": "Vocabulary",
+            "question": "What does 'florid' mean?",
+            "a": "Plain and simple",
+            "b": "Elaborately ornate",
+            "c": "Cold and distant",
+            "d": "Weak and frail",
+            "answer": "b"
+        },
+        {
+            "id": 7,
+            "category": "Vocabulary",
+            "question": "What does 'garrulous' mean?",
+            "a": "Silent and reserved",
+            "b": "Excessively talkative",
+            "c": "Swift and agile",
+            "d": "Dull and boring",
+            "answer": "b"
+        },
+        {
+            "id": 8,
+            "category": "Vocabulary",
+            "question": "What does 'harangue' mean?",
+            "a": "A quiet whisper",
+            "b": "A lengthy, aggressive speech",
+            "c": "A short greeting",
+            "d": "A gentle touch",
+            "answer": "b"
+        },
+        {
+            "id": 9,
+            "category": "Vocabulary",
+            "question": "What does 'impecunious' mean?",
+            "a": "Wealthy and affluent",
+            "b": "Having little or no money",
+            "c": "Bold and fearless",
+            "d": "Calm and serene",
+            "answer": "b"
+        },
+        {
+            "id": 10,
+            "category": "Vocabulary",
+            "question": "What does 'lugubrious' mean?",
+            "a": "Cheerful and lively",
+            "b": "Mournful and gloomy",
+            "c": "Fast and energetic",
+            "d": "Bright and vivid",
+            "answer": "b"
+        },
+        {
+            "id": 11,
+            "category": "Vocabulary",
+            "question": "What does 'mendacious' mean?",
+            "a": "Truthful and honest",
+            "b": "Lying or untruthful",
+            "c": "Gentle and kind",
+            "d": "Loud and clear",
+            "answer": "b"
+        },
+        {
+            "id": 12,
+            "category": "Vocabulary",
+            "question": "What does 'obdurate' mean?",
+            "a": "Flexible and yielding",
+            "b": "Stubborn and unyielding",
+            "c": "Warm and friendly",
+            "d": "Soft and pliable",
+            "answer": "b"
+        },
+        {
+            "id": 13,
+            "category": "Vocabulary",
+            "question": "What does 'placate' mean?",
+            "a": "To anger or provoke",
+            "b": "To calm or appease",
+            "c": "To confuse or mislead",
+            "d": "To hasten or rush",
+            "answer": "b"
+        },
+        {
+            "id": 14,
+            "category": "Vocabulary",
+            "question": "What does 'reprobate' mean?",
+            "a": "Morally upright",
+            "b": "Morally unprincipled",
+            "c": "Quick and clever",
+            "d": "Strong and healthy",
+            "answer": "b"
+        },
+        {
+            "id": 15,
+            "category": "Vocabulary",
+            "question": "What does 'sanguine' mean?",
+            "a": "Pessimistic and gloomy",
+            "b": "Optimistic and cheerful",
+            "c": "Cold and harsh",
+            "d": "Slow and lazy",
+            "answer": "b"
+        },
+        {
+            "id": 16,
+            "category": "Vocabulary",
+            "question": "What does 'taciturn' mean?",
+            "a": "Talkative and outgoing",
+            "b": "Reserved and silent",
+            "c": "Bold and daring",
+            "d": "Warm and inviting",
+            "answer": "b"
+        },
+        {
+            "id": 17,
+            "category": "Vocabulary",
+            "question": "What does 'ubiquitous' mean?",
+            "a": "Rare and scarce",
+            "b": "Present everywhere",
+            "c": "Small and delicate",
+            "d": "Loud and disruptive",
+            "answer": "b"
+        },
+        {
+            "id": 18,
+            "category": "Vocabulary",
+            "question": "What does 'verbose' mean?",
+            "a": "Brief and concise",
+            "b": "Using too many words",
+            "c": "Clear and simple",
+            "d": "Fast and efficient",
+            "answer": "b"
+        },
+        {
+            "id": 19,
+            "category": "Vocabulary",
+            "question": "What does 'winsome' mean?",
+            "a": "Unattractive and dull",
+            "b": "Charming and appealing",
+            "c": "Harsh and bitter",
+            "d": "Dark and mysterious",
+            "answer": "b"
+        },
+        {
+            "id": 20,
+            "category": "Vocabulary",
+            "question": "What does 'zealous' mean?",
+            "a": "Indifferent and lazy",
+            "b": "Enthusiastic and devoted",
+            "c": "Quiet and shy",
+            "d": "Cool and detached",
+            "answer": "b"
+        }
+    ]
+}
