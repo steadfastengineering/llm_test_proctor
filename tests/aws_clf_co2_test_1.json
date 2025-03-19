@@ -1,0 +1,504 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "category": "AWS Services",
+            "question": "Which AWS service provides scalable compute capacity?",
+            "a": "Amazon S3",
+            "b": "Amazon EC2",
+            "c": "AWS Lambda",
+            "d": "Amazon RDS",
+            "answer": "b"
+        },
+        {
+            "id": 2,
+            "category": "AWS Services",
+            "question": "What is the primary storage service in AWS?",
+            "a": "Amazon EBS",
+            "b": "Amazon S3",
+            "c": "Amazon Glacier",
+            "d": "AWS Snowball",
+            "answer": "b"
+        },
+        {
+            "id": 3,
+            "category": "AWS Services",
+            "question": "Which service is used for serverless computing?",
+            "a": "Amazon EC2",
+            "b": "AWS Lambda",
+            "c": "Amazon ECS",
+            "d": "AWS Fargate",
+            "answer": "b"
+        },
+        {
+            "id": 4,
+            "category": "AWS Services",
+            "question": "What service provides a managed relational database?",
+            "a": "Amazon RDS",
+            "b": "Amazon DynamoDB",
+            "c": "Amazon Redshift",
+            "d": "Amazon ElastiCache",
+            "answer": "a"
+        },
+        {
+            "id": 5,
+            "category": "AWS Services",
+            "question": "Which service is used for object storage?",
+            "a": "Amazon EBS",
+            "b": "Amazon S3",
+            "c": "Amazon EFS",
+            "d": "AWS Storage Gateway",
+            "answer": "b"
+        },
+        {
+            "id": 6,
+            "category": "AWS Services",
+            "question": "What is the AWS service for DNS management?",
+            "a": "Amazon Route 53",
+            "b": "AWS Direct Connect",
+            "c": "Amazon VPC",
+            "d": "AWS CloudFront",
+            "answer": "a"
+        },
+        {
+            "id": 7,
+            "category": "AWS Services",
+            "question": "Which service provides content delivery?",
+            "a": "Amazon CloudFront",
+            "b": "Amazon S3",
+            "c": "AWS MediaConvert",
+            "d": "Amazon Elastic Transcoder",
+            "answer": "a"
+        },
+        {
+            "id": 8,
+            "category": "AWS Services",
+            "question": "What service monitors AWS resources?",
+            "a": "AWS CloudTrail",
+            "b": "Amazon CloudWatch",
+            "c": "AWS Config",
+            "d": "AWS Trusted Advisor",
+            "answer": "b"
+        },
+        {
+            "id": 9,
+            "category": "AWS Services",
+            "question": "Which service tracks user activity and API calls?",
+            "a": "AWS CloudTrail",
+            "b": "Amazon CloudWatch",
+            "c": "AWS IAM",
+            "d": "AWS Shield",
+            "answer": "a"
+        },
+        {
+            "id": 10,
+            "category": "AWS Services",
+            "question": "What is the AWS service for identity management?",
+            "a": "AWS IAM",
+            "b": "Amazon Cognito",
+            "c": "AWS SSO",
+            "d": "AWS Directory Service",
+            "answer": "a"
+        },
+        {
+            "id": 11,
+            "category": "AWS Services",
+            "question": "Which service provides a virtual private network?",
+            "a": "Amazon VPC",
+            "b": "AWS Direct Connect",
+            "c": "AWS VPN",
+            "d": "Amazon Route 53",
+            "answer": "a"
+        },
+        {
+            "id": 12,
+            "category": "AWS Services",
+            "question": "What service is used for data warehousing?",
+            "a": "Amazon RDS",
+            "b": "Amazon Redshift",
+            "c": "Amazon DynamoDB",
+            "d": "AWS Glue",
+            "answer": "b"
+        },
+        {
+            "id": 13,
+            "category": "AWS Services",
+            "question": "Which service provides NoSQL database functionality?",
+            "a": "Amazon RDS",
+            "b": "Amazon DynamoDB",
+            "c": "Amazon Aurora",
+            "d": "Amazon ElastiCache",
+            "answer": "b"
+        },
+        {
+            "id": 14,
+            "category": "AWS Services",
+            "question": "What service automates code deployments?",
+            "a": "AWS CodeDeploy",
+            "b": "AWS CodeBuild",
+            "c": "AWS CodePipeline",
+            "d": "AWS CodeStar",
+            "answer": "a"
+        },
+        {
+            "id": 15,
+            "category": "AWS Services",
+            "question": "Which service provides a continuous integration pipeline?",
+            "a": "AWS CodeBuild",
+            "b": "AWS CodePipeline",
+            "c": "AWS CodeCommit",
+            "d": "AWS CodeDeploy",
+            "answer": "b"
+        },
+        {
+            "id": 16,
+            "category": "AWS Services",
+            "question": "What service is used for block storage?",
+            "a": "Amazon EBS",
+            "b": "Amazon S3",
+            "c": "Amazon EFS",
+            "d": "AWS Snowball",
+            "answer": "a"
+        },
+        {
+            "id": 17,
+            "category": "AWS Services",
+            "question": "Which service provides file storage?",
+            "a": "Amazon EFS",
+            "b": "Amazon S3",
+            "c": "Amazon EBS",
+            "d": "AWS Storage Gateway",
+            "answer": "a"
+        },
+        {
+            "id": 18,
+            "category": "AWS Services",
+            "question": "What service is used for archival storage?",
+            "a": "Amazon S3",
+            "b": "Amazon Glacier",
+            "c": "AWS Snowball",
+            "d": "Amazon EBS",
+            "answer": "b"
+        },
+        {
+            "id": 19,
+            "category": "AWS Services",
+            "question": "Which service provides DDoS protection?",
+            "a": "AWS Shield",
+            "b": "AWS WAF",
+            "c": "AWS Firewall Manager",
+            "d": "AWS GuardDuty",
+            "answer": "a"
+        },
+        {
+            "id": 20,
+            "category": "AWS Services",
+            "question": "What service filters malicious web traffic?",
+            "a": "AWS WAF",
+            "b": "AWS Shield",
+            "c": "AWS GuardDuty",
+            "d": "AWS Inspector",
+            "answer": "a"
+        },
+        {
+            "id": 21,
+            "category": "AWS Services",
+            "question": "Which service provides machine learning capabilities?",
+            "a": "Amazon SageMaker",
+            "b": "AWS DeepLens",
+            "c": "Amazon Lex",
+            "d": "Amazon Comprehend",
+            "answer": "a"
+        },
+        {
+            "id": 22,
+            "category": "AWS Services",
+            "question": "What service is used for real-time data streaming?",
+            "a": "Amazon Kinesis",
+            "b": "AWS Data Pipeline",
+            "c": "Amazon SQS",
+            "d": "Amazon SNS",
+            "answer": "a"
+        },
+        {
+            "id": 23,
+            "category": "AWS Services",
+            "question": "Which service provides a message queuing system?",
+            "a": "Amazon SQS",
+            "b": "Amazon SNS",
+            "c": "AWS Step Functions",
+            "d": "Amazon MQ",
+            "answer": "a"
+        },
+        {
+            "id": 24,
+            "category": "AWS Services",
+            "question": "What service delivers notifications?",
+            "a": "Amazon SNS",
+            "b": "Amazon SQS",
+            "c": "AWS AppSync",
+            "d": "Amazon SES",
+            "answer": "a"
+        },
+        {
+            "id": 25,
+            "category": "AWS Services",
+            "question": "Which service manages container orchestration?",
+            "a": "Amazon ECS",
+            "b": "AWS Lambda",
+            "c": "Amazon EC2",
+            "d": "AWS Batch",
+            "answer": "a"
+        },
+        {
+            "id": 26,
+            "category": "AWS Services",
+            "question": "What service simplifies container management?",
+            "a": "AWS Fargate",
+            "b": "Amazon ECS",
+            "c": "Amazon EKS",
+            "d": "AWS Batch",
+            "answer": "a"
+        },
+        {
+            "id": 27,
+            "category": "AWS Services",
+            "question": "Which service provides Kubernetes management?",
+            "a": "Amazon EKS",
+            "b": "Amazon ECS",
+            "c": "AWS Fargate",
+            "d": "AWS App Runner",
+            "answer": "a"
+        },
+        {
+            "id": 28,
+            "category": "AWS Services",
+            "question": "What service is used for batch processing?",
+            "a": "AWS Batch",
+            "b": "AWS Lambda",
+            "c": "Amazon ECS",
+            "d": "AWS Step Functions",
+            "answer": "a"
+        },
+        {
+            "id": 29,
+            "category": "AWS Services",
+            "question": "Which service coordinates application workflows?",
+            "a": "AWS Step Functions",
+            "b": "AWS Batch",
+            "c": "Amazon SWF",
+            "d": "AWS AppSync",
+            "answer": "a"
+        },
+        {
+            "id": 30,
+            "category": "AWS Services",
+            "question": "What service provides email sending capabilities?",
+            "a": "Amazon SES",
+            "b": "Amazon SNS",
+            "c": "Amazon SQS",
+            "d": "AWS Chatbot",
+            "answer": "a"
+        },
+        {
+            "id": 31,
+            "category": "AWS Services",
+            "question": "Which service provides real-time GraphQL APIs?",
+            "a": "AWS AppSync",
+            "b": "Amazon API Gateway",
+            "c": "AWS Lambda",
+            "d": "Amazon SNS",
+            "answer": "a"
+        },
+        {
+            "id": 32,
+            "category": "AWS Services",
+            "question": "What service manages APIs?",
+            "a": "Amazon API Gateway",
+            "b": "AWS AppSync",
+            "c": "AWS Direct Connect",
+            "d": "Amazon Route 53",
+            "answer": "a"
+        },
+        {
+            "id": 33,
+            "category": "AWS Services",
+            "question": "Which service provides data transfer to AWS?",
+            "a": "AWS Snowball",
+            "b": "Amazon S3",
+            "c": "AWS DataSync",
+            "d": "AWS Transfer Family",
+            "answer": "a"
+        },
+        {
+            "id": 34,
+            "category": "AWS Services",
+            "question": "What service synchronizes data to AWS?",
+            "a": "AWS DataSync",
+            "b": "AWS Snowball",
+            "c": "Amazon S3 Transfer Acceleration",
+            "d": "AWS Storage Gateway",
+            "answer": "a"
+        },
+        {
+            "id": 35,
+            "category": "AWS Services",
+            "question": "Which service provides hybrid storage?",
+            "a": "AWS Storage Gateway",
+            "b": "Amazon EFS",
+            "c": "Amazon S3",
+            "d": "AWS Snowball",
+            "answer": "a"
+        },
+        {
+            "id": 36,
+            "category": "AWS Services",
+            "question": "What service assesses security vulnerabilities?",
+            "a": "Amazon Inspector",
+            "b": "AWS GuardDuty",
+            "c": "AWS Shield",
+            "d": "AWS WAF",
+            "answer": "a"
+        },
+        {
+            "id": 37,
+            "category": "AWS Services",
+            "question": "Which service detects threats in AWS?",
+            "a": "AWS GuardDuty",
+            "b": "Amazon Inspector",
+            "c": "AWS Shield",
+            "d": "AWS Config",
+            "answer": "a"
+        },
+        {
+            "id": 38,
+            "category": "AWS Services",
+            "question": "What service tracks resource configurations?",
+            "a": "AWS Config",
+            "b": "AWS CloudTrail",
+            "c": "Amazon CloudWatch",
+            "d": "AWS Trusted Advisor",
+            "answer": "a"
+        },
+        {
+            "id": 39,
+            "category": "AWS Services",
+            "question": "Which service provides cost optimization advice?",
+            "a": "AWS Trusted Advisor",
+            "b": "AWS Budgets",
+            "c": "AWS Cost Explorer",
+            "d": "AWS Pricing Calculator",
+            "answer": "a"
+        },
+        {
+            "id": 40,
+            "category": "AWS Services",
+            "question": "What service helps forecast AWS costs?",
+            "a": "AWS Cost Explorer",
+            "b": "AWS Budgets",
+            "c": "AWS Trusted Advisor",
+            "d": "AWS Pricing Calculator",
+            "answer": "a"
+        },
+        {
+            "id": 41,
+            "category": "AWS Services",
+            "question": "Which service sets spending limits?",
+            "a": "AWS Budgets",
+            "b": "AWS Cost Explorer",
+            "c": "AWS Trusted Advisor",
+            "d": "AWS Billing Conductor",
+            "answer": "a"
+        },
+        {
+            "id": 42,
+            "category": "AWS Services",
+            "question": "What service provides conversational interfaces?",
+            "a": "Amazon Lex",
+            "b": "Amazon Polly",
+            "c": "Amazon Transcribe",
+            "d": "Amazon Translate",
+            "answer": "a"
+        },
+        {
+            "id": 43,
+            "category": "AWS Services",
+            "question": "Which service converts text to speech?",
+            "a": "Amazon Polly",
+            "b": "Amazon Lex",
+            "c": "Amazon Transcribe",
+            "d": "Amazon Comprehend",
+            "answer": "a"
+        },
+        {
+            "id": 44,
+            "category": "AWS Services",
+            "question": "What service transcribes audio to text?",
+            "a": "Amazon Transcribe",
+            "b": "Amazon Polly",
+            "c": "Amazon Lex",
+            "d": "Amazon Translate",
+            "answer": "a"
+        },
+        {
+            "id": 45,
+            "category": "AWS Services",
+            "question": "Which service translates languages?",
+            "a": "Amazon Translate",
+            "b": "Amazon Comprehend",
+            "c": "Amazon Lex",
+            "d": "Amazon Polly",
+            "answer": "a"
+        },
+        {
+            "id": 46,
+            "category": "AWS Services",
+            "question": "What service analyzes text sentiment?",
+            "a": "Amazon Comprehend",
+            "b": "Amazon Translate",
+            "c": "Amazon Lex",
+            "d": "Amazon Rekognition",
+            "answer": "a"
+        },
+        {
+            "id": 47,
+            "category": "AWS Services",
+            "question": "Which service analyzes images and videos?",
+            "a": "Amazon Rekognition",
+            "b": "Amazon Comprehend",
+            "c": "AWS DeepLens",
+            "d": "Amazon SageMaker",
+            "answer": "a"
+        },
+        {
+            "id": 48,
+            "category": "AWS Services",
+            "question": "What service provides ETL capabilities?",
+            "a": "AWS Glue",
+            "b": "AWS Data Pipeline",
+            "c": "Amazon Kinesis",
+            "d": "AWS Batch",
+            "answer": "a"
+        },
+        {
+            "id": 49,
+            "category": "AWS Services",
+            "question": "Which service schedules data movement?",
+            "a": "AWS Data Pipeline",
+            "b": "AWS Glue",
+            "c": "Amazon Kinesis",
+            "d": "AWS Step Functions",
+            "answer": "a"
+        },
+        {
+            "id": 50,
+            "category": "AWS Services",
+            "question": "What service provides dedicated network connections?",
+            "a": "AWS Direct Connect",
+            "b": "Amazon VPC",
+            "c": "AWS VPN",
+            "d": "Amazon Route 53",
+            "answer": "a"
+        }
+    ]
+}

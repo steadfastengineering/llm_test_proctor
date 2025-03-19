@@ -1,0 +1,204 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "category": "Vocabulary",
+            "question": "What does 'aberration' mean?",
+            "a": "A departure from the norm",
+            "b": "A type of flower",
+            "c": "A musical instrument",
+            "d": "A cooking method",
+            "answer": "a"
+        },
+        {
+            "id": 2,
+            "category": "Vocabulary",
+            "question": "What does 'benevolent' mean?",
+            "a": "Harsh or cruel",
+            "b": "Kind and generous",
+            "c": "Silent or quiet",
+            "d": "Quick and agile",
+            "answer": "b"
+        },
+        {
+            "id": 3,
+            "category": "Vocabulary",
+            "question": "What does 'capricious' mean?",
+            "a": "Predictable and steady",
+            "b": "Impulsive and unpredictable",
+            "c": "Strong and durable",
+            "d": "Bright and colorful",
+            "answer": "b"
+        },
+        {
+            "id": 4,
+            "category": "Vocabulary",
+            "question": "What does 'deleterious' mean?",
+            "a": "Harmful or damaging",
+            "b": "Helpful or beneficial",
+            "c": "Sweet or pleasant",
+            "d": "Loud or noisy",
+            "answer": "a"
+        },
+        {
+            "id": 5,
+            "category": "Vocabulary",
+            "question": "What does 'effulgent' mean?",
+            "a": "Dark and gloomy",
+            "b": "Shining brightly",
+            "c": "Cold and distant",
+            "d": "Soft and gentle",
+            "answer": "b"
+        },
+        {
+            "id": 6,
+            "category": "Vocabulary",
+            "question": "What does 'fastidious' mean?",
+            "a": "Careless and sloppy",
+            "b": "Attentive to detail",
+            "c": "Rude and impolite",
+            "d": "Slow and steady",
+            "answer": "b"
+        },
+        {
+            "id": 7,
+            "category": "Vocabulary",
+            "question": "What does 'gregarious' mean?",
+            "a": "Shy and reserved",
+            "b": "Sociable and outgoing",
+            "c": "Angry and hostile",
+            "d": "Tired and weary",
+            "answer": "b"
+        },
+        {
+            "id": 8,
+            "category": "Vocabulary",
+            "question": "What does 'hackneyed' mean?",
+            "a": "Fresh and original",
+            "b": "Worn out by overuse",
+            "c": "Sharp and precise",
+            "d": "Warm and comforting",
+            "answer": "b"
+        },
+        {
+            "id": 9,
+            "category": "Vocabulary",
+            "question": "What does 'ignominious' mean?",
+            "a": "Honorable and noble",
+            "b": "Disgraceful and shameful",
+            "c": "Fast and efficient",
+            "d": "Clear and obvious",
+            "answer": "b"
+        },
+        {
+            "id": 10,
+            "category": "Vocabulary",
+            "question": "What does 'jocularity' mean?",
+            "a": "Sadness and despair",
+            "b": "Playful humor",
+            "c": "Strength and power",
+            "d": "Fear and anxiety",
+            "answer": "b"
+        },
+        {
+            "id": 11,
+            "category": "Vocabulary",
+            "question": "What does 'labyrinthine' mean?",
+            "a": "Simple and straightforward",
+            "b": "Complex and maze-like",
+            "c": "Bright and cheerful",
+            "d": "Cold and icy",
+            "answer": "b"
+        },
+        {
+            "id": 12,
+            "category": "Vocabulary",
+            "question": "What does 'magnanimous' mean?",
+            "a": "Petty and selfish",
+            "b": "Generous and forgiving",
+            "c": "Weak and frail",
+            "d": "Loud and boisterous",
+            "answer": "b"
+        },
+        {
+            "id": 13,
+            "category": "Vocabulary",
+            "question": "What does 'nefarious' mean?",
+            "a": "Wicked and evil",
+            "b": "Kind and gentle",
+            "c": "Fast and swift",
+            "d": "Clear and pure",
+            "answer": "a"
+        },
+        {
+            "id": 14,
+            "category": "Vocabulary",
+            "question": "What does 'obstreperous' mean?",
+            "a": "Calm and peaceful",
+            "b": "Noisy and difficult to control",
+            "c": "Soft and delicate",
+            "d": "Strong and sturdy",
+            "answer": "b"
+        },
+        {
+            "id": 15,
+            "category": "Vocabulary",
+            "question": "What does 'perspicuous' mean?",
+            "a": "Confusing and unclear",
+            "b": "Clearly expressed",
+            "c": "Dark and shadowy",
+            "d": "Heavy and burdensome",
+            "answer": "b"
+        },
+        {
+            "id": 16,
+            "category": "Vocabulary",
+            "question": "What does 'querulous' mean?",
+            "a": "Cheerful and happy",
+            "b": "Complaining and whining",
+            "c": "Bold and daring",
+            "d": "Quiet and shy",
+            "answer": "b"
+        },
+        {
+            "id": 17,
+            "category": "Vocabulary",
+            "question": "What does 'recalcitrant' mean?",
+            "a": "Obedient and cooperative",
+            "b": "Stubbornly resistant",
+            "c": "Gentle and kind",
+            "d": "Fast and nimble",
+            "answer": "b"
+        },
+        {
+            "id": 18,
+            "category": "Vocabulary",
+            "question": "What does 'sagacious' mean?",
+            "a": "Foolish and unwise",
+            "b": "Wise and perceptive",
+            "c": "Slow and sluggish",
+            "d": "Bright and shiny",
+            "answer": "b"
+        },
+        {
+            "id": 19,
+            "category": "Vocabulary",
+            "question": "What does 'tenebrous' mean?",
+            "a": "Bright and radiant",
+            "b": "Dark and obscure",
+            "c": "Loud and clear",
+            "d": "Soft and smooth",
+            "answer": "b"
+        },
+        {
+            "id": 20,
+            "category": "Vocabulary",
+            "question": "What does 'vociferous' mean?",
+            "a": "Quiet and reserved",
+            "b": "Loud and outspoken",
+            "c": "Weak and fragile",
+            "d": "Cool and refreshing",
+            "answer": "b"
+        }
+    ]
+}

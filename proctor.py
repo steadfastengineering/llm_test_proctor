@@ -40,6 +40,7 @@ def print_start_message(file, total):
     
 
 def proctor(file):
+    # TODO: Provide list of wrong answers with corrections to let user know where they went wrong. 
     grade = 0
     total = len(get_questions(file)['questions']) 
     print_start_message(file, total)
