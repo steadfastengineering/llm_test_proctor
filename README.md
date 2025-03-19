@@ -14,7 +14,7 @@ python proctor.py <path_to_test.json>
 ## Creating Tests 
 Provide you own version of the following prompt template to your LLM of choice to generate a test. Ensure the format of the generated JSON matches exactly the provided template. You're ready to begin testing!
 ```json
-You are helping me a subject matter by providing me with questions and answers, but I can only read JSON. 
+You are helping me learn a subject matter by providing me with questions and answers.
 Given the following example of JSON, 
 
 {

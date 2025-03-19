@@ -1,4 +1,4 @@
-You are helping me a subject matter by providing me with questions and answers, but I can only read JSON. 
+You are helping me learn a subject matter by providing me with questions and answers.
 Given the following example of JSON, 
 
 {
@@ -15,7 +15,7 @@ Given the following example of JSON,
         },
         {
             "id": 2,
-            "category": "Science",
+            "category": "Trivia",
             "question": "What is the chemical symbol for water?",
             "a": "CH4", 
             "b": "H2O",
